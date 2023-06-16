@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+**GitHub Statistics** (Top 5)
+
+<a align="center" href=https://github.com/anuraghazra/github-readme-stats>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Priapos1004&theme=tokyonight&hide_title=true&card_width=400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrangeGirlMurph&theme=omni&hide=Jupyter%20Notebook,Mathematica&exclude_repo=.dotfiles&custom_title=Languages&hide_title=true&layout=compact" />
+</a> 
+
 <!--
 **Priapos1004/Priapos1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
