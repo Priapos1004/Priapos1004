@@ -12,8 +12,6 @@
 
 **Wakatime Statistics** (Top 8) ([Profile](https://wakatime.com/@Priapos1004))
 
-<br><br>
-
 [![Samuels's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=Priapos1004&langs_count=8&layout=compact&theme=omni&hide_title=true)](https://wakatime.com/@Priapos1004)
 
 <!--
