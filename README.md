@@ -7,6 +7,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priapos1004&theme=omni&hide=Jupyter%20Notebook,Mathematica&exclude_repo=.dotfiles&custom_title=Languages&hide_title=true&layout=compact" />
 </a> 
 
+<br></br>
+
+**Wakatime Statistics** (Top 8) ([Profile](https://wakatime.com/@Priapos1004))
+
+[![Samuels's Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=Priapos1004&langs_count=8&layout=compact&theme=omni&hide_title=true)](https://wakatime.com/@Priapos1004)
+
 <!--
 **Priapos1004/Priapos1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
