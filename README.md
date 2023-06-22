@@ -7,7 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priapos1004&theme=omni&hide=Jupyter%20Notebook,Mathematica&exclude_repo=.dotfiles&custom_title=Languages&hide_title=true&layout=compact" />
 </a> 
 
-<br><br>
+<br><br><br><br>
+
 
 **Wakatime Statistics** (Top 8) ([Profile](https://wakatime.com/@Priapos1004))
 
